@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to Maeevick</h1>
+<p>
+	Visit <a href="https://maeevick.substack.com/" target="_blank">"MicroSaaS Maker, La Newsletter"</a
+	> to learn more.
+</p>
