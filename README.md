@@ -10,4 +10,5 @@ __🛠️ Experimenting Developer Experience and Performance of my website with 
 - [x] Typescript
 - [x] SvelteKit (Scaffolded)
 - [x] Vercel
-- [ ] PWA
+- [x] PWA
+- [x] TailwindCSS
